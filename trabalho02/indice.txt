@@ -1,0 +1,3 @@
+a.txt: casa teto nao engracado
+b.txt: querer nao tamber morar casa
+c.txt: querer em o casar comigo facar morar amor casa
